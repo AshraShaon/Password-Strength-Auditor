@@ -68,7 +68,7 @@ Estimated crack time uses average-case analysis (half the keyspace) against four
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/password-strength-auditor
+git clone https://github.com/AshraShaon/password-strength-auditor
 cd password-strength-auditor
 # No external dependencies required — uses Python stdlib only
 python main.py --help
